@@ -5,12 +5,12 @@
 
 ---
 
-## 📁 檔案／影音相關工具
+##  檔案／影音相關工具
 - [FileInfoExtractor](https://github.com/StephenwwW/FileInfoExtractor)：整理多媒體檔案資訊（檔名、大小、影片長度）並匯出 Excel
 
 ---
 
-## 🛠️ 辦公輔助 & 通用小工具
+##  辦公輔助 & 通用小工具
 
 ### 自動化／網頁過濾
 - [JobWebFilterTools](https://github.com/StephenwwW/JobWebFilterTools)：104 求職網多重篩選 URL 自動重建工具（支援 Selenium + Tkinter）
@@ -27,7 +27,7 @@
 
 ---
 
-## 🔖 分類標籤（Topics）
+##  分類標籤（Topics）
 
 - `file-info`, `media-analyzer`
 - `web-scraping`, `automation`, `tkinter`
