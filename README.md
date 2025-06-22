@@ -1,11 +1,11 @@
 # stephenwww.github.io
 我的工具導覽頁
 
-以下為我整理的個人實用工具／專案分類，請點擊查看。
+以下為我整理的個人實用工具／專案分類，請點擊 GitHub 連結查看。
 
 ---
 
-##  檔案／影音相關工具
+## 檔案／影音相關工具
 - [FileInfoExtractor](https://github.com/StephenwwW/FileInfoExtractor)：整理多媒體檔案資訊（檔名、大小、影片長度）並匯出 Excel。
 - [VideoFileAnalyzer](https://github.com/StephenwwW/VideoFileAnalyzer)：讀取影片檔的詳細資訊，如編碼、幀率、解析度等。
 
@@ -22,6 +22,9 @@
 ### 語音工具
 - [Python-TTS-GUI-Tool](https://github.com/StephenwwW/Python-TTS-GUI-Tool)：文字轉語音（TTS）的 GUI 工具。
 
+### 語言／翻譯工具
+- [translator_app](https://github.com/StephenwwW/translator_app)：支援多國語言的 GUI 翻譯工具。
+
 ### 安全／帳密工具
 - [account-password-generator](https://github.com/StephenwwW/account-password-generator)：自訂規則的帳號密碼產生器 CLI 工具。
 
@@ -34,12 +37,13 @@
 
 ---
 
-##  分類標籤（Topics）
+## 分類標籤（Topics）
 
 - `file-info`, `media-analyzer`, `video-analyzer`
 - `web-scraping`, `automation`, `tkinter`
 - `data-analysis`, `pandas`
 - `tts`, `gui`, `audio`
+- `translator`, `utility`
 - `password`, `cli-tool`
 - `education`, `quiz`
 - `unit-converter`, `currency`, `finance`
