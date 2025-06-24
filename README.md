@@ -1,49 +1,51 @@
-# stephenwww.github.io
-我的工具導覽頁
+# StephenwwW GitHub 工具分類總覽
 
-以下為我整理的個人實用工具／專案分類，請點擊 GitHub 連結查看。
+##  檔案／影音相關工具
 
----
+- [FileInfoExtractor](https://github.com/StephenwwW/FileInfoExtractor)  
+  整理多媒體檔案資訊（檔名、大小、影片長度）並匯出 Excel。  
+  **Tags:** `python`, `file-info`, `media-analyzer`
 
-## 檔案／影音相關工具
-- [FileInfoExtractor](https://github.com/StephenwwW/FileInfoExtractor)：整理多媒體檔案資訊（檔名、大小、影片長度）並匯出 Excel。
-- [VideoFileAnalyzer](https://github.com/StephenwwW/VideoFileAnalyzer)：讀取影片檔的詳細資訊，如編碼、幀率、解析度等。
+- [VideoFileAnalyzer](https://github.com/StephenwwW/VideoFileAnalyzer)  
+  讀取影片檔的詳細資訊，如編碼、幀率、解析度等。  
+  **Tags:** `python`, `video-analyzer`, `media-info`
 
----
+##  自動化／爬蟲工具
 
-## 辦公輔助 & 通用小工具
+- [JobWebFilterTools](https://github.com/StephenwwW/JobWebFilterTools)  
+  自動過濾工作網站的職缺資料，自訂篩選條件與自動化更新。  
+  **Tags:** `python`, `web-scraping`, `automation`
 
-### 自動化／網頁過濾
-- [JobWebFilterTools](https://github.com/StephenwwW/JobWebFilterTools)：104 求職網多重篩選 URL 自動重建工具（支援 Selenium + Tkinter）。
+##  語音／翻譯工具
 
-### 資料分析
-- [Vending-Machine-Data-Analyzer](https://github.com/StephenwwW/Vending-Machine-Data-Analyzer)：分析自動販賣機銷售數據的工具。
+- [Python-TTS-GUI-Tool](https://github.com/StephenwwW/Python-TTS-GUI-Tool)  
+  將文字轉語音的簡易 GUI 工具。  
+  **Tags:** `python`, `tts`, `gui`, `audio`
 
-### 語音工具
-- [Python-TTS-GUI-Tool](https://github.com/StephenwwW/Python-TTS-GUI-Tool)：文字轉語音（TTS）的 GUI 工具。
+- [translator_app](https://github.com/StephenwwW/translator_app)  
+  翻譯輔助小工具，提供 GUI 介面，支援多語言翻譯功能。  
+  **Tags:** `python`, `translator`, `gui`, `utility`
 
-### 語言／翻譯工具
-- [translator_app](https://github.com/StephenwwW/translator_app)：支援多國語言的 GUI 翻譯工具。
+##  資料分析工具
 
-### 安全／帳密工具
-- [account-password-generator](https://github.com/StephenwwW/account-password-generator)：自訂規則的帳號密碼產生器 CLI 工具。
+- [Vending-Machine-Data-Analyzer](https://github.com/StephenwwW/Vending-Machine-Data-Analyzer)  
+  自動分析販賣機銷售資料，提供統計與圖表報表。  
+  **Tags:** `python`, `data-analysis`, `pandas`
 
-### 教育／學習工具
-- [math-arithmetic-test](https://github.com/StephenwwW/math-arithmetic-test)：背單字／四則運算等互動測驗。
+##  實用小工具
 
-### 單位／貨幣轉換
-- [unit_converter](https://github.com/StephenwwW/unit_converter)：長度、重量、溫度轉換器。
-- [currency-converter-v3](https://github.com/StephenwwW/currency-converter-v3)：即時匯率貨幣轉換工具。
+- [account-password-generator](https://github.com/StephenwwW/account-password-generator)  
+  產生隨機帳號密碼，支援自訂長度與複雜度。  
+  **Tags:** `python`, `password`, `cli-tool`
 
----
+- [unit_converter](https://github.com/StephenwwW/unit_converter)  
+  單位換算工具，支援常見長度、重量、溫度等單位轉換。  
+  **Tags:** `python`, `unit-converter`, `utility`
 
-## 分類標籤（Topics）
+- [currency-converter-v3](https://github.com/StephenwwW/currency-converter-v3)  
+  匯率換算工具，支援即時匯率更新。  
+  **Tags:** `python`, `currency`, `finance`
 
-- `file-info`, `media-analyzer`, `video-analyzer`
-- `web-scraping`, `automation`, `tkinter`
-- `data-analysis`, `pandas`
-- `tts`, `gui`, `audio`
-- `translator`, `utility`
-- `password`, `cli-tool`
-- `education`, `quiz`
-- `unit-converter`, `currency`, `finance`
+- [math-arithmetic-test](https://github.com/StephenwwW/math-arithmetic-test)  
+  四則運算小測驗，適合小朋友數學練習。  
+  **Tags:** `python`, `education`, `quiz`
