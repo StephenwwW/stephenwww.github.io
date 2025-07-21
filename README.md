@@ -26,6 +26,10 @@
   翻譯輔助小工具，提供 GUI 介面，支援多語言翻譯功能。  
   **Tags:** `python`, `translator`, `gui`, `utility`
 
+- [Smart-TTS](https://github.com/StephenwwW/Smart-TTS)  
+  智慧型文字轉語音工具，可自動偵測語言並提供多種聲音選擇。  
+  **Tags:** `python`, `tts`, `smart-tts`, `audio`
+
 ##  資料分析工具
 
 - [Vending-Machine-Data-Analyzer](https://github.com/StephenwwW/Vending-Machine-Data-Analyzer)  
@@ -49,3 +53,7 @@
 - [math-arithmetic-test](https://github.com/StephenwwW/math-arithmetic-test)  
   四則運算小測驗，適合小朋友數學練習。  
   **Tags:** `python`, `education`, `quiz`
+
+- [Screen-Hide-Utility](https://github.com/StephenwwW/Screen-Hide-Utility)  
+  螢幕隱藏工具，可快速隱藏或顯示指定視窗，保護隱私。  
+  **Tags:** `python`, `gui`, `utility`, `privacy`
